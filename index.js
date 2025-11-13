@@ -1,4 +1,2 @@
-for(var i=0;i<10;i++){
-    console.log(i);
-}
-    console.log("Hello, World!");   
+for(var i=0;i<5;i++){
+console.log("Hello World!");   }
